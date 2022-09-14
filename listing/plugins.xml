@@ -7,11 +7,18 @@
         <author_name>Ken Geospatialist</author_name>
         <download_url>https://kengeospatialist.github.io/qgis-plugins/listing/rics_attribute_v1.zip</download_url>
     </pyqgis_plugin>
-  <pyqgis_plugin name="Kinks Checker" version="0.1">
+	<pyqgis_plugin name="Kinks Checker" version="0.1">
         <description>This plugin check kinks in spatial data. The plugin is found under Vector Menu > GMC >Rics Attribute Checker </description>
         <qgis_minimum_version>3.0.0</qgis_minimum_version>
         <file_name>kinks_checker.zip</file_name>
         <author_name>Ken Geospatialist</author_name>
         <download_url>https://kengeospatialist.github.io/qgis-plugins/listing/kinks_checker_v1.zip</download_url>
+    </pyqgis_plugin>
+	<pyqgis_plugin name="Splitter" version="0.1">
+        <description>This plugin splits(clips) spatial data by split field in the overlay feature to multiple output feature. Currently supports on 3 output formats namely geojson, geopackage and ESRI Shapefile. The plugin is found under Vector Menu > GMC >Splitter </description>
+        <qgis_minimum_version>3.0.0</qgis_minimum_version>
+        <file_name>splitter.zip</file_name>
+        <author_name>Ken Geospatialist</author_name>
+        <download_url>https://kengeospatialist.github.io/qgis-plugins/listing/splitter.zip</download_url>
     </pyqgis_plugin>
 </plugins>
