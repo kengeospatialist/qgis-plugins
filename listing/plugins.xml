@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="Rics Attribute Checker" version="0.3">
+    <pyqgis_plugin name="Rics Attribute Checker" version="0.4">
         <description>This plugin check attribute data conformity to data dictionary. The plugin is found under Vector Menu > GMC >Rics Attribute Checker </description>
         <qgis_minimum_version>3.0.0</qgis_minimum_version>
         <file_name>rics_attribute.zip</file_name>
         <author_name>Ken Geospatialist</author_name>
-        <download_url>https://kengeospatialist.github.io/qgis-plugins/listing/rics_attribute_v0.3.zip</download_url>
+        <download_url>https://kengeospatialist.github.io/qgis-plugins/listing/rics_attribute_v0.4.zip</download_url>
     </pyqgis_plugin>
 	<pyqgis_plugin name="Kinks Checker" version="0.1">
         <description>This plugin check kinks in spatial data. The plugin is found under Vector Menu > GMC >Kinks Checker </description>
